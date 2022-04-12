@@ -7,9 +7,7 @@ The mod includes the following:
 - Mission pack to learn physics
 - Game constraints (fewer parts available)
 
-Refer to the [wiki](https://github.com/AlonsoOropeza/SeriousPhysX/wiki) for installation instructions.
-
-For more information consult the [thesis](https://www.overleaf.com/read/gyjycknpstpm).
+Refer to the [wiki](https://github.com/AlonsoOropeza/SeriousPhysX/wiki) for documentation.
 
 ---
 
