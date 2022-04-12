@@ -1,8 +1,13 @@
 # SeriousPhysicX
-Educational serious mod for KSP
 
-Developed as a material for the theis: [Can Students Learn Physics by Playing Video Games?
-Effectiveness of a Serious Mod](https://www.overleaf.com/read/gyjycknpstpm)
+SeriousPhysicX is an educational serious mod with the purpose of teaching physics to students.
+
+The mod includes the following:
+- A part to self-destruct the vessel
+- Mission pack to learn physics
+- Game constraints (fewer parts available)
+
+For more information consult the [thesis](https://www.overleaf.com/read/gyjycknpstpm).
 
 ---
 
