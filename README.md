@@ -7,6 +7,8 @@ The mod includes the following:
 - Mission pack to learn physics
 - Game constraints (fewer parts available)
 
+Refer to the [wiki](/wiki) for installation instructions.
+
 For more information consult the [thesis](https://www.overleaf.com/read/gyjycknpstpm).
 
 ---
