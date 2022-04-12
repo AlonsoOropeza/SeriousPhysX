@@ -1,13 +1,13 @@
-# SeriousPhysicX
+# SeriousPhysX
 
-SeriousPhysicX is an educational serious mod with the purpose of teaching physics to students.
+SeriousPhysX is an educational serious mod with the purpose of teaching physics to students.
 
 The mod includes the following:
 - A part to self-destruct the vessel
 - Mission pack to learn physics
 - Game constraints (fewer parts available)
 
-Refer to the [wiki](https://github.com/AlonsoOropeza/SeriousPhysicX/wiki) for installation instructions.
+Refer to the [wiki](https://github.com/AlonsoOropeza/SeriousPhysX/wiki) for installation instructions.
 
 For more information consult the [thesis](https://www.overleaf.com/read/gyjycknpstpm).
 
