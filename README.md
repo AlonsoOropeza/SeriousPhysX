@@ -1,6 +1,6 @@
 # SeriousPhysX
 
-SeriousPhysX is an educational serious mod with the purpose of teaching physics to students.
+SeriousPhysX is an educational serious mod for KSP with the purpose of teaching physics to students.
 
 The mod includes the following:
 - A part to self-destruct the vessel
